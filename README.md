@@ -3,8 +3,10 @@ TÜRKÇE AÇIKLAMA
 Ne işe yarar?
 Belirtilen dosyanın içinde yazılanlar okunabilir.
 Belirtilen dosyanın içine metin yazılabilir.
+
 Hangi dil ile yazıldı?
 Kodların hepsi kesinlikle Python dili ile yazılmıştır.
+
 Dosya işlemleri neler?
 Dosya okuma ve dosyaya yazı yazma
 
